@@ -28,7 +28,7 @@ Function ulong GetDC ( ulong hWnd ) Library "user32.dll"
 end prototypes
 
 type variables
-string is_test10
+string is_test11
 end variables
 forward prototypes
 public function integer test2 (integer ai_a)
