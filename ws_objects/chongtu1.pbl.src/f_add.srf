@@ -6,6 +6,6 @@ forward prototypes
 global function integer f_add (integer ai_a, integer ai_b)
 end prototypes
 
-global function integer f_add (integer ai_a, integer ai_b);return ai_a + ai_b + 1
+global function integer f_add (integer ai_a, integer ai_b);return ai_a + ai_b + 12
 end function
 

@@ -13,7 +13,6 @@ end forward
 global variables
 string gs_test
 end variables
-
 shared variables
 string ss_test1
 end variables
@@ -30,6 +29,7 @@ end prototypes
 type variables
 string is_test11
 end variables
+
 forward prototypes
 public function integer test2 (integer ai_a)
 end prototypes
